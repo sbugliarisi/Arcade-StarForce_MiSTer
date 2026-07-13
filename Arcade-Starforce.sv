@@ -221,6 +221,8 @@ module emu
                           "-;",
                           "HFO1,Aspect Ratio,Original,Wide;",
                           "HFO2,Orientation,Vert,Horz;",
+								  "O7,Flip Screen,Off,On;",
+									"O8,Pause,Off,On;",
                           "O35,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%,CRT 75%;",
                           "-;",
                           "DIP;",
